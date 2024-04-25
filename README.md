@@ -3,3 +3,5 @@ Determined the system’s ideal operating point and maintained the velocity diff
 
 In voiceClassification, preprocess the collected data to allign the words, performed SVD and evaluate the training data,
 classify each word using clustering in the PCA basis, evaluate performance by running the model on testing data.
+
+video demo: https://drive.google.com/file/d/1SJVnWnzVTH7FMf-rXGeJmzTC_9PQmC9t/view?usp=sharing
